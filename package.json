@@ -1,0 +1,10 @@
+﻿{
+  "name": "com.mimizh.dependencyinjection",
+  "version": "0.1.0",
+  "displayName": "Unity DependencyInjection",
+  "author": {
+    "name": "mimizh",
+    "url": "https://github.com/mimizmi/",
+    "license": "MIT"
+  }
+}
